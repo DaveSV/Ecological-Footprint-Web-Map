@@ -1,6 +1,12 @@
 # Python Folium: Create Web Maps From Your Data
 
-This directory contains code associated with the Real Python tutorial [Python Folium: Create Web Maps From Your Data](https://realpython.com/python-folium-web-maps-from-data/). For additional information, please visit the tutorial link.
+Discover how to create an Ecological Footprint Web Map (or any kind of data analytic map) from your Datasets, using Python Programming, OpenStreetMaps and Folium library.
+
+## Tutorial: Create Web Maps From Your Data
+
+https://realpython.com/python-folium-web-maps-from-data/
+
+![eco_mapa](https://user-images.githubusercontent.com/29576337/215849838-9e7d8b9e-828d-4fc2-9df6-c30b52d8311c.jpg)
 
 ## Installation
 
@@ -19,19 +25,4 @@ If you also want to work with the included [Jupyter notebook file](footprint.ipy
 (venv) $ python -m pip install jupyter
 ```
 
-## Usage
 
-You can re-create [the HTML file](footprint.html) by running [`footprint.py`](footprint.py) from within your virtual environment.
-
-You can modify the code to make it work with your own dataset.
-
-Additionally, you can take a look at how Jupyter renders Folium maps directly inside of a notebook by checking out [`footprint.ipynb`](footprint.ipynb).
-
-## About the Author
-
-Martin Breuss - Email: martin@realpython.com
-
-## License
-
-Distributed under the MIT license. See `LICENSE` in the root directory of this `materials` repo for more information.
-"# Ecological-Footprint-Web-Map" 
